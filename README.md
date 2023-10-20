@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hello, I'm MlodyBorsuk 👋
 
-<!--
-**MlodyBorsuk/MlodyBorsuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 18 year old tech enthusiast from Poland, deeply interested in in programming and general tech. In my free time, I enjoy playing games and learning new skills.
 
-Here are some ideas to get you started:
+## 🔭 Current
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently working on [Personal Website](https://mlodyborsuk.pl/) and I'm learning [Node.js](https://nodejs.org/en), [Python](https://www.python.org/) to code Discord Bots.
+
+## ⚡️ Experience
+
+I'm an intermediate developer i code frontend in HTML and CSS for over 2 years.
+
+## 📫 Contact
+
+To contact me quickly and easily, write me a DM on [Discord](https://discord.com/users/466770957923647508).
